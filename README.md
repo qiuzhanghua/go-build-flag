@@ -6,7 +6,7 @@
 ```
 output is:
 ```text
-0.0.1
+running version is 0.0.2
 ```
 
 ```bash
