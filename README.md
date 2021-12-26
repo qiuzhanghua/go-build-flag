@@ -1,8 +1,12 @@
-
+# Learn tags and ldflags for go build
 
 ```bash
  go build -tags debug -ldflags "-X main.version=`autotag current`" -o normal
 ./normal
+```
+output is:
+```text
+0.0.1
 ```
 
 ```bash
